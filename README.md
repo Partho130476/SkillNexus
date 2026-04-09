@@ -63,7 +63,7 @@ skill-nexus-main/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/skill-nexus.git
+git clone https://github.com/Partho130476/skill-nexus.git
 cd skill-nexus/skillNexus
 
 # 2. Create and activate a virtual environment
